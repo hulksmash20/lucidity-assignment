@@ -1,0 +1,11 @@
+.tableContainer {
+  margin-top: 40px;
+}
+
+.tableHeadRow :nth-child(n) {
+  color: greenyellow;
+}
+
+.tableRow :nth-child(n) {
+  color: white;
+}

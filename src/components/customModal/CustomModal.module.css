@@ -1,0 +1,28 @@
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.inputContainer {
+  display: flex;
+  gap: 20px;
+}
+.buttonDiv {
+  margin-top: 30px;
+  text-align: right;
+}
+
+.buttonDiv :first-child {
+  color: #7e8f3d;
+}
+
+.buttonDiv :first-child:hover {
+  background-color: transparent;
+}
+
+.buttonDiv :nth-child(2) {
+  color: white;
+  background-color: #3f413d;
+  border-radius: 5px;
+  margin-left: 15px;
+}

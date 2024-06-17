@@ -1,0 +1,19 @@
+.card {
+  display: flex;
+  padding: 20px 30px;
+  background-color: #243325;
+  border-radius: 10px;
+  gap: 10px;
+  flex-grow: 1;
+}
+
+.headingDiv {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.value {
+  font-size: 30px;
+  font-weight: 600;
+}

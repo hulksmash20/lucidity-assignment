@@ -1,0 +1,6 @@
+.navbar {
+  display: flex;
+  justify-content: end;
+  padding: 5px 20px;
+  /* background-color: aliceblue; */
+}
